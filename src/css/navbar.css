@@ -1,0 +1,12 @@
+.logout{
+  text-decoration: none;
+  color: red;
+}
+
+.logout:hover{
+  color: #fff;
+}
+
+li{
+  margin-left: 15px;
+}

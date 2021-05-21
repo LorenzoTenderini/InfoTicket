@@ -1,0 +1,19 @@
+
+@import "../css/tipografy.css";
+
+body{
+  font-family: 'KoHo', sans-serif;
+}
+
+.my-container{
+  margin-top: 200px;
+}
+
+.hide{
+  display: none;
+}
+
+.error-message{
+  color: red;
+  font-size: 15px;
+}
